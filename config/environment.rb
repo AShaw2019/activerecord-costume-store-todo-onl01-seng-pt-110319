@@ -1,4 +1,4 @@
-Learn more or give us feedback
+
 require "bundler/setup"
 
 require "sinatra/activerecord"
